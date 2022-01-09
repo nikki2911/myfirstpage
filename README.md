@@ -1,2 +1,2 @@
 # myfirstpage
-Page I created as mini project
+Webpage I created as mini project
