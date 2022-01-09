@@ -1,0 +1,42 @@
+header {
+    background: linear-gradient(180deg, #636666 15%, #00a7ea 70%);
+    text-align: center;
+    padding: 5px;
+}
+body{
+    background: #b3b3b3;
+    margin: 2%;
+}
+h1{
+    color: #e9ffff;
+    margin-top: 0;
+}
+h2{
+    background: #00a7ea;
+    color: #8f002e;
+    padding-left: 1px;
+}
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+}
+nav a{
+    display: inline-block;
+    background: #ffffff;
+    padding: 0 5%;
+}
+footer{
+    background: linear-gradient(#636666, #00a7ea);
+    margin-top: 20px;
+}
+img{
+    width: 125px;
+}
+.column{
+    display: flex;
+    flex-flow: row;
+}
+.column section{
+    flex: 50%;
+    margin: 0 0.5%;
+}
